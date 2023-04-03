@@ -16,4 +16,4 @@ April 3rd 2023 - WalkThrough for Mr.Robot
 
   | Box  | Steps/Hints to Root                                                                                                                                                                                                                                                                                                                                                                           |
   | --| -- |
-  | [Mr Robot]()   | <ol><li>Network Scanning</li><li>Web Server Vuln Analysis</li><li>Password Cracking </li><li>WordPress Reverse Shell</li><li>Hash Decrypting</li><li>Nmap Interactive Mode: Privilege Escalation </li></ol> 
+  | [Mr Robot](https://github.com/miglago/Vulnhub_WriteUps/blob/main/MrRobot/MrRobot.md)   | <ol><li>Network Scanning</li><li>Web Server Vuln Analysis</li><li>Password Cracking </li><li>WordPress Reverse Shell</li><li>Hash Decrypting</li><li>Nmap Interactive Mode: Privilege Escalation </li></ol> 
