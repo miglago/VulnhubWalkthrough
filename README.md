@@ -2,8 +2,8 @@
 This is a Repository that contains WriteUps/Walkthroughs for various Vulnerable Virtual Machines which can be found at [VulnHub](https://www.vulnhub.com/about/)
 
 ## History
-April 3rd 2023 - Repository Created
-April 3rd 2023 - WalkThrough for Mr.Robot 
+April 3rd 2023 - Repository Created  
+April 3rd 2023 - WalkThrough for Mr.Robot  
 
 # Machines:
 
